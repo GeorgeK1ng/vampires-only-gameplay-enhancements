@@ -1,0 +1,376 @@
+{
+	"core:aislinn" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "advanced"
+			}
+		]
+	},
+	"core:charna" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:clavius" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "luck",
+				"level" : "basic"
+			},
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:galthran" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "ballistics",
+				"level" : "basic"
+			},
+			{
+				"skill" : "armorer",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:isra" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "armorer",
+				"level" : "basic"
+			},
+			{
+				"skill" : "scouting",
+				"level" : "basic"
+			}
+		],
+		"specialty" : {
+			"creature" : "vampire"
+		},
+		"spellbook" : [ "curse" ]
+	},
+	"core:moandor" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			},
+			{
+				"skill" : "learning",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:nagash" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "airMagic",
+				"level" : "basic"
+			},
+			{
+				"skill" : "intelligence",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:nimbus" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "scholar",
+				"level" : "basic"
+			},
+			{
+				"skill" : "eagleEye",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:sandro" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "sorcery",
+				"level" : "advanced"
+			}
+		]
+	},
+	"core:septienna" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "scholar",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:straker" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			},
+			{
+				"skill" : "resistance",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:tamika" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "advanced"
+			}
+		]
+	},
+	"core:thant" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "earthMagic",
+				"level" : "basic"
+			},
+			{
+				"skill" : "mysticism",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:vidomina" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "resistance",
+				"level" : "basic"
+			}
+		],
+		"specialty" : {
+			"bonuses" : {
+				"forgetfulness" : {
+					"type" : "SPECIAL_SPELL_LEV",
+					"subtype" : "spell.forgetfulness",
+					"updater" : "TIMES_HERO_LEVEL",
+					"val" : 3
+				}
+			}
+		},
+		"spellbook" : [ "forgetfulness" ]
+	},
+	"core:vokial" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "ballistics",
+				"level" : "basic"
+			},
+			{
+				"skill" : "artillery",
+				"level" : "basic"
+			}
+		]
+	},
+	"core:xsi" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "learning",
+				"level" : "basic"
+			}
+		]
+	},
+	"hota.heroes:ranloo" :
+	{
+		"army" : [
+			{
+				"creature" : "skeleton",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "ballista",
+				"min" : 1,
+				"max" : 1
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "artillery",
+				"level" : "basic"
+			}
+		]
+	},
+	"andruids-expansion.plaguetent:bubonic" :
+	{
+		//addressing palagueTentCreature not working ATM
+		// "army" : [
+		// 	{
+		// 		"creature" : "skeleton",
+		// 		"min" : 1,
+		// 		"max" : 1
+		// 	},
+		// 	{
+		// 		"creature" : "andruids-expansion.plaguetent:plagueTentCreature",
+		// 		"max" : 1,
+		// 		"min" : 1
+		// 	}
+		// ],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "intelligence",
+				"level" : "basic"
+			}
+		]
+	}
+}

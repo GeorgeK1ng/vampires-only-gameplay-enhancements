@@ -1,0 +1,28 @@
+{
+	"name" : "Vampires only gameplay enhancements",
+	"description" : "Gameplay enhancements for vampires only play mode. Disables Necromancy skill and related artifacts. All necropolis heroes start with 1 skeleton.",
+	"modType" : "Mechanics",
+	"author" : "Krs",
+	"contact" : "",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"version" : "0.1.0",
+	"downloadSize" : 0.14,
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"artifacts":
+	[
+		"config/disableNecromancyArtifacts.json"
+	],
+	"heroClasses" :
+	[
+		"config/disableNecromancyFromNecropolisHeroClasses.json"
+	],
+	"heroes" :
+	[
+		"config/replaceNecromancyStartingSkill.json"
+	]
+}
+
