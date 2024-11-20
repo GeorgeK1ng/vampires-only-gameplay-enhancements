@@ -1,0 +1,22 @@
+{
+	"name" : "Hota patch",
+	"description" : "Hota patch",
+	"modType" : "Compatibility",
+	"author" : "Krs",
+	"contact" : "",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"version" : "1.0",
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"depends" : [
+		"hota.interference"
+	],
+	"heroes" :
+	[
+		"config/replaceNecromancyStartingSkill.json"
+	]
+}
+

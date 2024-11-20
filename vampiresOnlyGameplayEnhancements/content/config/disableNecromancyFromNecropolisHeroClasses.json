@@ -1,5 +1,5 @@
 {
-	"core.heroClasses:deathKnight" :
+	"core:deathknight" :
 	{
 		"secondarySkills" : {
 			"airMagic" : 2,
@@ -32,7 +32,7 @@
 			"wisdom" : 6
 		}
 	},
-	"core.heroClasses:necromancer" :
+	"core:necromancer" :
 	{
 		"secondarySkills" : {
 			"airMagic" : 3,
