@@ -14,6 +14,7 @@
 	},
 	"changelog" :
 	{
+		"1.2"   : [ "Fix Bubonic to start with plague tent and 1 skeleton. Removed mod warnings by splitting into compatibility type submods" ],
 		"1.1"   : [ "Fixed Classes modification", "Added HotA compatibility for Straker", "Added Czech translation" ],
 		"1.0"   : [ "Initial release" ]
 	},
