@@ -1,0 +1,24 @@
+{
+	"name" : "andruids-expansion patch",
+	"description" : "Andruids Expansion patch",
+	"modType" : "Compatibility",
+	"author" : "Krs",
+	"contact" : "",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"version" : "1.0",
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"depends" :
+	[
+		"andruids-expansion",
+		"andruids-expansion.plaguetent"
+	],
+	"heroes" :
+	[
+		"config/replaceNecromancyStartingSkill.json"
+	]
+}
+
