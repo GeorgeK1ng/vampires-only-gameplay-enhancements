@@ -30,4 +30,4 @@ Removes Necromancy Amplifier requirement for Upgraded Vampire Mansion.
 1. **Stricter Vampires only**:  
 You can further restrict secondary heroes by requiring them to use a *vampire* or *vampire lord* instead of a *skeleton*.  
 
-
+**Note:** For a refresher on vampire unit and Drain life ability visit this: [Wiki](https://heroes.thelazy.net/index.php/Vampire_and_Vampire_Lord)
