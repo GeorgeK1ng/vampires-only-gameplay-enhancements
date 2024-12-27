@@ -1,0 +1,13 @@
+{
+	"core:necropolis" : {
+		"town" : {
+			"buildings" : {
+				"dwellingUpLvl4": { 
+					"id" : 40,
+					"upgrades" : "dwellingLvl4",
+					"requires" : [ "mageGuild1" ]
+				}
+			}
+		}
+	}
+}
